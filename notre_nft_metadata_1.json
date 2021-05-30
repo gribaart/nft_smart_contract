@@ -1,0 +1,63 @@
+{
+  "name": "Haralam Magnescu",
+  "description": "Upíří princ",
+  "lives": 22,
+  "team_lives": 8,
+  "original_card": "https://ipfs.io/ipfs/QmcuymPRMtVAaoMWsnQdCKKEPFaweLsS1b1kXFgQYQJ5gh",
+  "characteristic": [
+    {
+      "morning": {
+        "energy": 4,
+        "skills": [
+          {
+            "name": "Vampire bite",
+            "value": "+1"
+          },
+          {
+            "name": "Permanent attack on the hero",
+            "value": "+2"
+          }
+        ]
+      },
+      "noon": {
+        "energy": 3,
+        "skills": [
+          {
+            "name": "Attack on hero",
+            "value": "+3"
+          },
+          {
+            "name": "Permanent attack on the hero",
+            "value": "+3"
+          }
+        ]
+      },
+      "evening": {
+        "energy": 3,
+        "skills": [
+          {
+            "name": "Vampire curse of the weapon",
+            "value": "+3"
+          },
+          {
+            "name": "Night vampire attack",
+            "value": "+2"
+          }
+        ]
+      },
+      "night": {
+        "energy": 3,
+        "skills": [
+          {
+            "name": "Vampire bit",
+            "value": "-1"
+          },
+          {
+            "name": "Night vampire attack",
+            "value": "+5"
+          }
+        ]
+      }
+    }
+  ]
+}
