@@ -3,58 +3,23 @@
   "description": "Upíří princ",
   "lives": 22,
   "team_lives": 8,
-  "original_card": "https://ipfs.io/ipfs/QmcuymPRMtVAaoMWsnQdCKKEPFaweLsS1b1kXFgQYQJ5gh",
-  "characteristic": [
-    {
-      "morning": {
-        "energy": 4,
-        "skills": [
+  "image_url": "https://github.com/gribaart/nft_smart_contract/blob/main/notre_nft_card_1.png",
+  "attributes": [
           {
-            "name": "Vampire bite",
-            "value": "+1"
+            "trait_type": "Morning Energy", 
+            "value": "4"
           },
           {
-            "name": "Permanent attack on the hero",
-            "value": "+2"
-          }
-        ]
-      },
-      "noon": {
-        "energy": 3,
-        "skills": [
-          {
-            "name": "Attack on hero",
-            "value": "+3"
+            "trait_type": "None Energy", 
+            "value": "1"
           },
           {
-            "name": "Permanent attack on the hero",
-            "value": "+3"
-          }
-        ]
-      },
-      "evening": {
-        "energy": 3,
-        "skills": [
-          {
-            "name": "Vampire curse of the weapon",
-            "value": "+3"
+            "trait_type": "Evening Energy", 
+            "value": "3"
           },
           {
-            "name": "Night vampire attack",
-            "value": "+2"
-          }
-        ]
-      },
-      "night": {
-        "energy": 3,
-        "skills": [
-          {
-            "name": "Vampire bit",
-            "value": "-1"
-          },
-          {
-            "name": "Night vampire attack",
-            "value": "+5"
+            "trait_type": "Night Energy", 
+            "value": "3"
           }
         ]
       }
