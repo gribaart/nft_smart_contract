@@ -1,28 +1,32 @@
 {
-  "name": "Haralam Magnescu",
-  "description": "Upíří princ",
-  "lives": 22,
-  "team_lives": 8,
-  "image_url": "https://github.com/gribaart/nft_smart_contract/blob/main/notre_nft_card_1.png",
-  "attributes": [
-          {
-            "trait_type": "Morning Energy", 
-            "value": "4"
-          },
-          {
-            "trait_type": "None Energy", 
-            "value": "1"
-          },
-          {
-            "trait_type": "Evening Energy", 
-            "value": "3"
-          },
-          {
-            "trait_type": "Night Energy", 
-            "value": "3"
-          }
-        ]
+   "name":"Haralam Magnescu",
+   "description":"Upíří princ",
+   "external_url":"https://scratchwars.com/en/",
+   "image":"https://github.com/gribaart/nft_smart_contract/blob/main/notre_nft_card_1.png",
+   "attributes":[
+      {
+         "trait_type":"Lives",
+         "value":"22"
+      },
+      {
+         "trait_type":"Team Lives",
+         "value":"8"
+      },
+      {
+         "trait_type":"Morning Energy",
+         "value":"4"
+      },
+      {
+         "trait_type":"None Energy",
+         "value":"1"
+      },
+      {
+         "trait_type":"Evening Energy",
+         "value":"3"
+      },
+      {
+         "trait_type":"Night Energy",
+         "value":"3"
       }
-    }
-  ]
+   ]
 }
